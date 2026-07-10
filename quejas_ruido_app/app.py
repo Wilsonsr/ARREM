@@ -1,10 +1,21 @@
+import sys
+
 import folium
 import pandas as pd
 import streamlit as st
+import streamlit.runtime as st_runtime
 from streamlit_folium import st_folium
 
 from utils.carga_datos import cargar_quejas, columna_direccion, vista_segura
 from utils.geoespacial import cargar_zonas, clasificar_estado, ubicar_quejas
+
+if not st_runtime.exists():
+    print(
+        "\nEsta es una app de Streamlit: no se abre con el botón 'Run' de VS Code.\n"
+        "Ábrela desde una terminal, dentro de esta carpeta, con:\n\n"
+        "    streamlit run app.py\n"
+    )
+    sys.exit(0)
 
 COLOR_ESTADO = {
     "Dentro de zona": "green",
