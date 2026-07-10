@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 from streamlit_folium import st_folium
 
-from utils.carga_datos import cargar_quejas, columna_direccion
+from utils.carga_datos import cargar_quejas, columna_direccion, vista_segura
 from utils.geoespacial import cargar_zonas, clasificar_estado, ubicar_quejas
 
 COLOR_ESTADO = {
@@ -50,7 +50,7 @@ if not descartadas.empty:
     with st.expander(f"Ver las {len(descartadas)} filas descartadas"):
         col_dir_desc = columna_direccion(descartadas)
         cols_desc = [c for c in ["Fecha_Queja", col_dir_desc, "x", "y", "motivo_descarte"] if c and c in descartadas.columns]
-        st.dataframe(descartadas[cols_desc], use_container_width=True)
+        st.dataframe(vista_segura(descartadas[cols_desc]), use_container_width=True)
 
 if df.empty:
     st.warning("El archivo no tiene filas con coordenadas (x, y) válidas dentro de Bogotá.")
@@ -150,7 +150,7 @@ columnas_tabla = [c for c in [
     "zona_rumba", "zona_mas_cercana", "distancia_m", "x", "y",
 ] if c and c in filtrado.columns]
 
-st.dataframe(filtrado[columnas_tabla], use_container_width=True)
+st.dataframe(vista_segura(filtrado[columnas_tabla]), use_container_width=True)
 
 csv = filtrado.drop(columns="geometry").to_csv(index=False).encode("utf-8-sig")
 st.download_button("📥 Descargar resultados (CSV)", data=csv, file_name="quejas_ubicadas.csv", mime="text/csv")

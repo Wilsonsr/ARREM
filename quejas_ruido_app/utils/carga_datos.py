@@ -62,3 +62,14 @@ def columna_direccion(df: pd.DataFrame) -> str | None:
         if nombre in df.columns:
             return nombre
     return None
+
+
+def vista_segura(df: pd.DataFrame) -> pd.DataFrame:
+    """Normaliza a texto las columnas de tipo mixto (p. ej. direcciones con el
+    valor centinela 999 en vez de texto) para que Streamlit pueda mostrarlas
+    sin fallar la conversión a Arrow."""
+    vista = df.copy()
+    for col in vista.columns:
+        if vista[col].dtype == object:
+            vista[col] = vista[col].apply(lambda v: v if pd.isna(v) else str(v))
+    return vista
