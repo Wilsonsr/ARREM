@@ -1,0 +1,190 @@
+tema,poblacion,indicador,anio,casos,total,no_casos,prevalencia,prevalencia_pct,fuente,nota
+REM,Población encuestada REM,Sobreexposición a electrodomésticos,2019,101,1711,1610,0.05903,5.903,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Sobreexposición a electrodomésticos,2020,34,1409,1375,0.024131,2.4131,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Sobreexposición a electrodomésticos,2021,99,2607,2508,0.037975,3.7975,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Sobreexposición a electrodomésticos,2022,97,2680,2583,0.036194,3.6194,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Sobreexposición a electrodomésticos,2023,84,2303,2219,0.036474,3.6474,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Sobreexposición a electrodomésticos,2024,48,2303,2255,0.020842,2.0842,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Sobreexposición a electrodomésticos,2025,69,2453,2384,0.028129,2.8129,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Síndrome por radiofrecuencia,2019,114,1711,1597,0.066628,6.6628,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Síndrome por radiofrecuencia,2020,20,1409,1389,0.014194,1.4194,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Síndrome por radiofrecuencia,2021,40,2607,2567,0.015343,1.5343,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Síndrome por radiofrecuencia,2022,32,2680,2648,0.01194,1.194,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Síndrome por radiofrecuencia,2023,40,2303,2263,0.017369,1.7369,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Síndrome por radiofrecuencia,2024,25,2303,2278,0.010855,1.0855,rem,Población de referencia no especificada en la fuente
+REM,Población encuestada REM,Síndrome por radiofrecuencia,2025,11,2453,2442,0.004484,0.4484,rem,Población de referencia no especificada en la fuente
+Respiratorio,5 a 14 años,Ausentismo,2019,702,5398,4696,0.130048,13.0048,mh,P23; denominador: niños que asisten a una institución
+Respiratorio,5 a 14 años,Ausentismo,2020,122,4580,4458,0.026638,2.6638,mh,P23; denominador: niños que asisten a una institución
+Respiratorio,5 a 14 años,Ausentismo,2021,82,4991,4909,0.01643,1.643,mh,P23; denominador: niños que asisten a una institución
+Respiratorio,5 a 14 años,Ausentismo,2022,442,5216,4774,0.084739,8.4739,mh,P23; denominador: niños que asisten a una institución
+Respiratorio,5 a 14 años,Ausentismo,2023,652,5111,4459,0.127568,12.7568,mh,P23; denominador: niños que asisten a una institución
+Respiratorio,5 a 14 años,Ausentismo,2024,523,4578,4055,0.114242,11.4242,mh,P23; denominador: niños que asisten a una institución
+Respiratorio,5 a 14 años,Ausentismo,2025,323,4261,3938,0.075804,7.5804,mh,P23; denominador: niños que asisten a una institución
+Respiratorio,5 a 14 años,Sibilancias,2019,216,5484,5268,0.039387,3.9387,mh,Pregunta P17
+Respiratorio,5 a 14 años,Sibilancias,2020,74,4720,4646,0.015678,1.5678,mh,Pregunta P17
+Respiratorio,5 a 14 años,Sibilancias,2021,67,5135,5068,0.013048,1.3048,mh,Pregunta P17
+Respiratorio,5 a 14 años,Sibilancias,2022,124,5305,5181,0.023374,2.3374,mh,Pregunta P17
+Respiratorio,5 a 14 años,Sibilancias,2023,151,5164,5013,0.029241,2.9241,mh,Pregunta P17
+Respiratorio,5 a 14 años,Sibilancias,2024,130,4617,4487,0.028157,2.8157,mh,Pregunta P17
+Respiratorio,5 a 14 años,Sibilancias,2025,67,4283,4216,0.015643,1.5643,mh,Pregunta P17
+Respiratorio,5 a 14 años,Síntomas sin gripa,2019,1212,5484,4272,0.221007,22.1007,mh,P11
+Respiratorio,5 a 14 años,Síntomas sin gripa,2020,434,4720,4286,0.091949,9.1949,mh,P11
+Respiratorio,5 a 14 años,Síntomas sin gripa,2021,510,5135,4625,0.099318,9.9318,mh,P11
+Respiratorio,5 a 14 años,Síntomas sin gripa,2022,1071,5305,4234,0.201885,20.1885,mh,P11
+Respiratorio,5 a 14 años,Síntomas sin gripa,2023,1250,5164,3914,0.24206,24.206,mh,P11
+Respiratorio,5 a 14 años,Síntomas sin gripa,2024,1019,4617,3598,0.220706,22.0706,mh,P11
+Respiratorio,5 a 14 años,Síntomas sin gripa,2025,868,4283,3415,0.202662,20.2662,mh,P11
+Respiratorio,5 a 14 años,Tos,2019,1255,5484,4229,0.228848,22.8848,mh,"p5: tos diferente a gripa, tos seca (definición distinta a la de menores de 5 años)"
+Respiratorio,5 a 14 años,Tos,2020,411,4720,4309,0.087076,8.7076,mh,"p5: tos diferente a gripa, tos seca (definición distinta a la de menores de 5 años)"
+Respiratorio,5 a 14 años,Tos,2021,305,5135,4830,0.059396,5.9396,mh,"p5: tos diferente a gripa, tos seca (definición distinta a la de menores de 5 años)"
+Respiratorio,5 a 14 años,Tos,2022,872,5305,4433,0.164373,16.4373,mh,"p5: tos diferente a gripa, tos seca (definición distinta a la de menores de 5 años)"
+Respiratorio,5 a 14 años,Tos,2023,1026,5164,4138,0.198683,19.8683,mh,"p5: tos diferente a gripa, tos seca (definición distinta a la de menores de 5 años)"
+Respiratorio,5 a 14 años,Tos,2024,830,4617,3787,0.17977,17.977,mh,"p5: tos diferente a gripa, tos seca (definición distinta a la de menores de 5 años)"
+Respiratorio,5 a 14 años,Tos,2025,500,4283,3783,0.116741,11.6741,mh,"p5: tos diferente a gripa, tos seca (definición distinta a la de menores de 5 años)"
+Respiratorio,60 años y más,Dolor torácico,2019,311,2581,2270,0.120496,12.0496,mh,
+Respiratorio,60 años y más,Dolor torácico,2020,111,2242,2131,0.049509,4.9509,mh,
+Respiratorio,60 años y más,Dolor torácico,2021,141,3467,3326,0.040669,4.0669,mh,
+Respiratorio,60 años y más,Dolor torácico,2022,158,2928,2770,0.053962,5.3962,mh,
+Respiratorio,60 años y más,Dolor torácico,2023,142,2522,2380,0.056305,5.6305,mh,
+Respiratorio,60 años y más,Dolor torácico,2024,178,2437,2259,0.073041,7.3041,mh,
+Respiratorio,60 años y más,Dolor torácico,2025,126,2536,2410,0.049685,4.9685,mh,
+Respiratorio,60 años y más,Sibilancias,2019,231,2581,2350,0.0895,8.95,mh,
+Respiratorio,60 años y más,Sibilancias,2020,82,2242,2160,0.036574,3.6574,mh,
+Respiratorio,60 años y más,Sibilancias,2021,105,3467,3362,0.030286,3.0286,mh,
+Respiratorio,60 años y más,Sibilancias,2022,107,2928,2821,0.036544,3.6544,mh,
+Respiratorio,60 años y más,Sibilancias,2023,117,2522,2405,0.046392,4.6392,mh,
+Respiratorio,60 años y más,Sibilancias,2024,127,2437,2310,0.052113,5.2113,mh,
+Respiratorio,60 años y más,Sibilancias,2025,76,2536,2460,0.029968,2.9968,mh,
+Respiratorio,Menores de 5 años,Ausentismo,2019,315,1393,1078,0.226131,22.6131,mh,Denominador: niños que asisten a una institución
+Respiratorio,Menores de 5 años,Ausentismo,2020,65,1259,1194,0.051628,5.1628,mh,Denominador: niños que asisten a una institución
+Respiratorio,Menores de 5 años,Ausentismo,2021,47,1222,1175,0.038462,3.8462,mh,Denominador: niños que asisten a una institución
+Respiratorio,Menores de 5 años,Ausentismo,2022,210,1334,1124,0.157421,15.7421,mh,Denominador: niños que asisten a una institución
+Respiratorio,Menores de 5 años,Ausentismo,2023,210,1278,1068,0.164319,16.4319,mh,Denominador: niños que asisten a una institución
+Respiratorio,Menores de 5 años,Ausentismo,2024,148,1165,1017,0.127039,12.7039,mh,Denominador: niños que asisten a una institución
+Respiratorio,Menores de 5 años,Ausentismo,2025,96,1168,1072,0.082192,8.2192,mh,Denominador: niños que asisten a una institución
+Respiratorio,Menores de 5 años,Sibilancias,2019,373,3159,2786,0.118075,11.8075,mh,Pregunta p8
+Respiratorio,Menores de 5 años,Sibilancias,2020,172,3327,3155,0.051698,5.1698,mh,Pregunta p8
+Respiratorio,Menores de 5 años,Sibilancias,2021,113,4030,3917,0.02804,2.804,mh,Pregunta p8
+Respiratorio,Menores de 5 años,Sibilancias,2022,274,3295,3021,0.083156,8.3156,mh,Pregunta p8
+Respiratorio,Menores de 5 años,Sibilancias,2023,266,3159,2893,0.084204,8.4204,mh,Pregunta p8
+Respiratorio,Menores de 5 años,Sibilancias,2024,255,2831,2576,0.090074,9.0074,mh,Pregunta p8
+Respiratorio,Menores de 5 años,Sibilancias,2025,154,2682,2528,0.05742,5.742,mh,Pregunta p8
+Respiratorio,Menores de 5 años,Síntomas sin gripa,2019,822,3159,2337,0.260209,26.0209,mh,
+Respiratorio,Menores de 5 años,Síntomas sin gripa,2020,403,3327,2924,0.12113,12.113,mh,
+Respiratorio,Menores de 5 años,Síntomas sin gripa,2021,487,4030,3543,0.120844,12.0844,mh,
+Respiratorio,Menores de 5 años,Síntomas sin gripa,2022,815,3295,2480,0.247344,24.7344,mh,
+Respiratorio,Menores de 5 años,Síntomas sin gripa,2023,747,3159,2412,0.236467,23.6467,mh,
+Respiratorio,Menores de 5 años,Síntomas sin gripa,2024,611,2831,2220,0.215825,21.5825,mh,
+Respiratorio,Menores de 5 años,Síntomas sin gripa,2025,429,2682,2253,0.159955,15.9955,mh,
+Respiratorio,Menores de 5 años,Tos,2019,417,3159,2742,0.132004,13.2004,mh,P15: tos en el último año diferente a gripa
+Respiratorio,Menores de 5 años,Tos,2020,133,3327,3194,0.039976,3.9976,mh,P15: tos en el último año diferente a gripa
+Respiratorio,Menores de 5 años,Tos,2021,107,4030,3923,0.026551,2.6551,mh,P15: tos en el último año diferente a gripa
+Respiratorio,Menores de 5 años,Tos,2022,296,3295,2999,0.089833,8.9833,mh,P15: tos en el último año diferente a gripa
+Respiratorio,Menores de 5 años,Tos,2023,375,3159,2784,0.118708,11.8708,mh,P15: tos en el último año diferente a gripa
+Respiratorio,Menores de 5 años,Tos,2024,210,2831,2621,0.074179,7.4179,mh,P15: tos en el último año diferente a gripa
+Respiratorio,Menores de 5 años,Tos,2025,212,2682,2470,0.079045,7.9045,mh,P15: tos en el último año diferente a gripa
+Ruido,Adolescentes,Alteración de salud,2019,592,2365,1773,0.250317,25.0317,ruido,
+Ruido,Adolescentes,Alteración de salud,2020,195,2023,1828,0.096391,9.6391,ruido,
+Ruido,Adolescentes,Alteración de salud,2021,418,2947,2529,0.141839,14.1839,ruido,
+Ruido,Adolescentes,Alteración de salud,2022,296,2406,2110,0.123026,12.3026,ruido,
+Ruido,Adolescentes,Alteración de salud,2023,398,2482,2084,0.160355,16.0355,ruido,
+Ruido,Adolescentes,Alteración de salud,2024,327,2470,2143,0.132389,13.2389,ruido,
+Ruido,Adolescentes,Alteración de salud,2025,137,1733,1596,0.079054,7.9054,ruido,
+Ruido,Adolescentes,Somnolencia,2019,165,2365,2200,0.069767,6.9767,ruido,
+Ruido,Adolescentes,Somnolencia,2020,43,2023,1980,0.021256,2.1256,ruido,
+Ruido,Adolescentes,Somnolencia,2021,60,2947,2887,0.02036,2.036,ruido,
+Ruido,Adolescentes,Somnolencia,2022,54,2406,2352,0.022444,2.2444,ruido,
+Ruido,Adolescentes,Somnolencia,2023,92,2482,2390,0.037067,3.7067,ruido,
+Ruido,Adolescentes,Somnolencia,2024,66,2470,2404,0.026721,2.6721,ruido,
+Ruido,Adolescentes,Somnolencia,2025,22,1733,1711,0.012695,1.2695,ruido,
+Ruido,Adolescentes,Uso de audífonos,2019,1772,2365,593,0.74926,74.926,ruido,
+Ruido,Adolescentes,Uso de audífonos,2020,1468,2023,555,0.725655,72.5655,ruido,
+Ruido,Adolescentes,Uso de audífonos,2021,2081,2947,866,0.706142,70.6142,ruido,
+Ruido,Adolescentes,Uso de audífonos,2022,1742,2406,664,0.724023,72.4023,ruido,
+Ruido,Adolescentes,Uso de audífonos,2023,1677,2482,805,0.675665,67.5665,ruido,
+Ruido,Adolescentes,Uso de audífonos,2024,1598,2470,872,0.646964,64.6964,ruido,
+Ruido,Adolescentes,Uso de audífonos,2025,1095,1733,638,0.631852,63.1852,ruido,
+Ruido,Adultos,Alteración de salud,2019,1205,3284,2079,0.366931,36.6931,ruido,
+Ruido,Adultos,Alteración de salud,2020,388,2116,1728,0.183365,18.3365,ruido,
+Ruido,Adultos,Alteración de salud,2021,699,3055,2356,0.228805,22.8805,ruido,
+Ruido,Adultos,Alteración de salud,2022,595,2694,2099,0.220861,22.0861,ruido,
+Ruido,Adultos,Alteración de salud,2023,674,2578,1904,0.261443,26.1443,ruido,
+Ruido,Adultos,Alteración de salud,2024,594,2609,2015,0.227673,22.7673,ruido,
+Ruido,Adultos,Alteración de salud,2025,516,2480,1964,0.208065,20.8065,ruido,
+Ruido,Adultos,Alteración del sueño,2019,1367,3284,1917,0.416261,41.6261,ruido,
+Ruido,Adultos,Alteración del sueño,2020,739,2116,1377,0.349244,34.9244,ruido,
+Ruido,Adultos,Alteración del sueño,2021,1237,3055,1818,0.40491,40.491,ruido,
+Ruido,Adultos,Alteración del sueño,2022,935,2694,1759,0.347068,34.7068,ruido,
+Ruido,Adultos,Alteración del sueño,2023,774,2578,1804,0.300233,30.0233,ruido,
+Ruido,Adultos,Alteración del sueño,2024,797,2609,1812,0.305481,30.5481,ruido,
+Ruido,Adultos,Alteración del sueño,2025,732,2480,1748,0.295161,29.5161,ruido,
+Ruido,Adultos,Somnolencia,2019,519,3284,2765,0.158039,15.8039,ruido,
+Ruido,Adultos,Somnolencia,2020,215,2116,1901,0.101607,10.1607,ruido,
+Ruido,Adultos,Somnolencia,2021,237,3055,2818,0.077578,7.7578,ruido,
+Ruido,Adultos,Somnolencia,2022,180,2694,2514,0.066815,6.6815,ruido,
+Ruido,Adultos,Somnolencia,2023,223,2578,2355,0.086501,8.6501,ruido,
+Ruido,Adultos,Somnolencia,2024,145,2609,2464,0.055577,5.5577,ruido,
+Ruido,Adultos,Somnolencia,2025,109,2480,2371,0.043952,4.3952,ruido,
+Ruido,Adultos,Uso de audífonos,2019,827,3284,2457,0.251827,25.1827,ruido,
+Ruido,Adultos,Uso de audífonos,2020,683,2116,1433,0.322779,32.2779,ruido,
+Ruido,Adultos,Uso de audífonos,2021,859,3055,2196,0.281178,28.1178,ruido,
+Ruido,Adultos,Uso de audífonos,2022,826,2694,1868,0.306607,30.6607,ruido,
+Ruido,Adultos,Uso de audífonos,2023,834,2578,1744,0.323507,32.3507,ruido,
+Ruido,Adultos,Uso de audífonos,2024,807,2609,1802,0.309314,30.9314,ruido,
+Ruido,Adultos,Uso de audífonos,2025,854,2480,1626,0.344355,34.4355,ruido,
+Tabaco,60 años y más,Consumo de tabaco,2019,206,2581,2375,0.079814,7.9814,tabaco,
+Tabaco,60 años y más,Consumo de tabaco,2020,153,2242,2089,0.068243,6.8243,tabaco,
+Tabaco,60 años y más,Consumo de tabaco,2021,257,3467,3210,0.074127,7.4127,tabaco,
+Tabaco,60 años y más,Consumo de tabaco,2022,238,2928,2690,0.081284,8.1284,tabaco,
+Tabaco,60 años y más,Consumo de tabaco,2023,209,2522,2313,0.082871,8.2871,tabaco,
+Tabaco,60 años y más,Consumo de tabaco,2024,193,2437,2244,0.079196,7.9196,tabaco,
+Tabaco,60 años y más,Consumo de tabaco,2025,189,2536,2347,0.074527,7.4527,tabaco,
+Tabaco,60 años y más,Consumo de tabaco leve,2019,127,2581,2454,0.049206,4.9206,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco leve,2020,86,2242,2156,0.038359,3.8359,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco leve,2021,143,3467,3324,0.041246,4.1246,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco leve,2022,133,2928,2795,0.045423,4.5423,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco leve,2023,120,2522,2402,0.047581,4.7581,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco leve,2024,117,2437,2320,0.04801,4.801,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco leve,2025,116,2536,2420,0.045741,4.5741,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco moderado,2019,62,2581,2519,0.024022,2.4022,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco moderado,2020,57,2242,2185,0.025424,2.5424,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco moderado,2021,93,3467,3374,0.026824,2.6824,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco moderado,2022,87,2928,2841,0.029713,2.9713,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco moderado,2023,76,2522,2446,0.030135,3.0135,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco moderado,2024,60,2437,2377,0.02462,2.462,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco moderado,2025,62,2536,2474,0.024448,2.4448,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco severo,2019,17,2581,2564,0.006587,0.6587,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco severo,2020,10,2242,2232,0.00446,0.446,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco severo,2021,21,3467,3446,0.006057,0.6057,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco severo,2022,18,2928,2910,0.006148,0.6148,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco severo,2023,13,2522,2509,0.005155,0.5155,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco severo,2024,16,2437,2421,0.006565,0.6565,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Consumo de tabaco severo,2025,11,2536,2525,0.004338,0.4338,tabaco,Subcategoría del consumo de tabaco
+Tabaco,60 años y más,Tabaquismo pasivo,2019,334,2581,2247,0.129407,12.9407,tabaco,
+Tabaco,60 años y más,Tabaquismo pasivo,2020,229,2242,2013,0.102141,10.2141,tabaco,
+Tabaco,60 años y más,Tabaquismo pasivo,2021,356,3467,3111,0.102682,10.2682,tabaco,
+Tabaco,60 años y más,Tabaquismo pasivo,2022,327,2928,2601,0.11168,11.168,tabaco,
+Tabaco,60 años y más,Tabaquismo pasivo,2023,216,2522,2306,0.085646,8.5646,tabaco,
+Tabaco,60 años y más,Tabaquismo pasivo,2024,190,2437,2247,0.077965,7.7965,tabaco,
+Tabaco,60 años y más,Tabaquismo pasivo,2025,187,2536,2349,0.073738,7.3738,tabaco,
+Tabaco,Menores de 14 años,Tabaco en el hogar,2019,2179,8643,6464,0.252112,25.2112,tabaco,
+Tabaco,Menores de 14 años,Tabaco en el hogar,2020,1488,8047,6559,0.184914,18.4914,tabaco,
+Tabaco,Menores de 14 años,Tabaco en el hogar,2021,1900,9165,7265,0.20731,20.731,tabaco,
+Tabaco,Menores de 14 años,Tabaco en el hogar,2022,1809,8600,6791,0.210349,21.0349,tabaco,
+Tabaco,Menores de 14 años,Tabaco en el hogar,2023,1736,8323,6587,0.208579,20.8579,tabaco,
+Tabaco,Menores de 14 años,Tabaco en el hogar,2024,1565,7448,5883,0.210124,21.0124,tabaco,
+Tabaco,Menores de 14 años,Tabaco en el hogar,2025,1171,6965,5794,0.168126,16.8126,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo en gestación,2019,190,8643,8453,0.021983,2.1983,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo en gestación,2020,99,8047,7948,0.012303,1.2303,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo en gestación,2021,148,9165,9017,0.016148,1.6148,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo en gestación,2022,81,8600,8519,0.009419,0.9419,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo en gestación,2023,61,8323,8262,0.007329,0.7329,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo en gestación,2024,81,7448,7367,0.010875,1.0875,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo en gestación,2025,78,6965,6887,0.011199,1.1199,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo pasivo,2019,538,8643,8105,0.062247,6.2247,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo pasivo,2020,249,8047,7798,0.030943,3.0943,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo pasivo,2021,405,9165,8760,0.04419,4.419,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo pasivo,2022,185,8600,8415,0.021512,2.1512,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo pasivo,2023,116,8323,8207,0.013937,1.3937,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo pasivo,2024,106,7448,7342,0.014232,1.4232,tabaco,
+Tabaco,Menores de 14 años,Tabaquismo pasivo,2025,71,6965,6894,0.010194,1.0194,tabaco,
